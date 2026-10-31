@@ -43,7 +43,7 @@ case "$VERSION" in
     echo -e "${GREEN}✓ Compatible stable release detected: Ubuntu $VERSION${NC}"
     ;;
   "26.04")
-    echo -e "${YELLOW}⚠ Ubuntu 26.04 (Beta) detected. Running in experimental mode...${NC}"
+    echo -e "${YELLOW} WARNİNG Ubuntu 26.04 (Beta) detected. Running in experimental mode...${NC}"
     ;;
   *)
     echo -e "${RED}[Error] Unsupported Ubuntu release ($VERSION).${NC}"
