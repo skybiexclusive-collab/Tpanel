@@ -36,4 +36,4 @@
 Log in to your Ubuntu target machine as `root` via SSH or terminal console, then execute:
 
 ```bash
-curl -sSL https://github.com/skybiexclusive-collab/Tpanel/main/tpanelsetup.sh | bash
+curl -sSL https://raw.githubusercontent.com/skybiexclusive-collab/Tpanel/refs/heads/main/tpanelsetup.sh | bash
